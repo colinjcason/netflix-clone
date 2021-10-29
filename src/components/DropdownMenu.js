@@ -7,7 +7,7 @@ const DropdownMenu = () => {
     <div className='flex items-center'>
             <img 
               className='h-8'
-              src='' 
+              src='https://upload.wikimedia.org/wikipedia/commons/6/67/NewNetflixLogo.png' 
               alt=''
             />
 

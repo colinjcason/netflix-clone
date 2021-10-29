@@ -1,6 +1,3 @@
-import { Fragment } from 'react'
-import { Menu, Transition } from '@headlessui/react'
-import { ChevronDownIcon } from '@heroicons/react/solid'
 import DropdownMenu from './DropdownMenu'
 
 const Header = () => {
